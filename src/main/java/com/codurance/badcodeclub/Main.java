@@ -1,5 +1,4 @@
 package com.codurance.badcodeclub;
-import java.util.ArrayList;
 
 public class Main {
 
